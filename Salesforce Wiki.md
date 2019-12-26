@@ -81,6 +81,8 @@ Organzation wise security:
 
 6) TLS:- transport layer security( encryption of information)
 
+7)Hardware, Password, Pin, OTP, IP, TLS, Session, Role Based 
+
 
 
 
